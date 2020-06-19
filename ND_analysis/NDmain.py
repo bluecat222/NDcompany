@@ -27,7 +27,7 @@ cursor = db.cursor()
 # DB.csv_input(db, 2015)
 # DB.DBcreate(db)
 # Mcrawling.day_chart(db, 2020)
-Mcrawling.rank_gap(db, 2020, 5, 5)
+Mcrawling.rank_gap(db, 2020, 5, 5) # 순위 격차 
 
 # 분석 기간 입력
 start = 20150101
